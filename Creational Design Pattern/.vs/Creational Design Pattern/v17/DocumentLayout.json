@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3F68FD-44B9-4202-AEB5-D4C3946AC2EC}|Builder\\Builder.csproj|c:\\users\\admin\\desktop\\dpm215476\\creational design pattern\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3F68FD-44B9-4202-AEB5-D4C3946AC2EC}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815715F7-E358-4731-8859-D4523D614C5A}|Singleton\\Singleton.csproj|c:\\users\\admin\\desktop\\dpm215476\\creational design pattern\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815715F7-E358-4731-8859-D4523D614C5A}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7CA2E5-2075-48E0-82B9-C87F8CE4B612}|Abstract Factory\\Abstract Factory.csproj|c:\\users\\admin\\desktop\\dpm215476\\creational design pattern\\abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7CA2E5-2075-48E0-82B9-C87F8CE4B612}|Abstract Factory\\Abstract Factory.csproj|solutionrelative:abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA643669-A2D7-4D31-A585-4318A3144FC1}|Prototype\\Prototype.csproj|c:\\users\\admin\\desktop\\dpm215476\\creational design pattern\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA643669-A2D7-4D31-A585-4318A3144FC1}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460A4D72-E485-4902-A3BB-EA4058454A40}|Factory Method\\Factory Method.csproj|c:\\users\\admin\\desktop\\dpm215476\\creational design pattern\\factory method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460A4D72-E485-4902-A3BB-EA4058454A40}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wNgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:47:06.013Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:51:20.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "Prototype\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Prototype\\Program.cs",
+              "RelativeToolTip": "Prototype\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:50:24.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Factory Method\\Program.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Factory Method\\Program.cs",
+              "RelativeToolTip": "Factory Method\\Program.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAcwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:49:35.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Abstract Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM215476\\Creational Design Pattern\\Abstract Factory\\Program.cs",
+              "RelativeToolTip": "Abstract Factory\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:08:04.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
